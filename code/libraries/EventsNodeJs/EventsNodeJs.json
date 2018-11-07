@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "",
+    "description": "Partial Implementation of NodeJs' Events library",
+    "name": "EventsNodeJs",
+    "version": 3,
+    "visibility": "system"
+}
