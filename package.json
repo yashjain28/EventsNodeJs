@@ -1,0 +1,31 @@
+{
+    "asset_types": [
+        "Code Libraries",
+        "Code Services"
+    ],
+    "author": {
+        "email": "corenodejs@clearblade.com"
+    },
+    "clouds": [],
+    "description": "Partial Implementation of NodeJs' Events library",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://docs.clearblade.com/v/3/static/img/default_package.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform",
+        "events",
+        "node",
+        "js",
+        "core",
+        "library"
+    ],
+    "license": "MIT",
+    "name": "EventsNodeJs",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": "1.0.0"
+}
