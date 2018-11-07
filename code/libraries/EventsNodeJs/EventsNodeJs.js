@@ -19,7 +19,12 @@
 // OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
 // USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
+/**
+ * This is a partial implementation of NodeJs' events library.
+ * It has been modified to fit ClearBlade's requirements
+ * Thanks to hhttps://github.com/Gozala/events for src code
+ * Usage: const events = EventsNodeJs();
+ */
 function EventsNodeJs() {
 
   var module = {};
